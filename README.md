@@ -7,7 +7,7 @@ Example use:
 
 - GET request for google maps:
     
-    String uri = "http://maps.google.com/maps/api/geocode/json?address=" +
+            String uri = "http://maps.google.com/maps/api/geocode/json?address=" +
                     addres[0] + "&sensor=false";
 
             Log.d(DEBUG_URL_TAG,uri);
