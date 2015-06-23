@@ -6,6 +6,7 @@ Next versions will make more confortable readme.
 Example use:
 
 - GET request for google maps:
+    
     String uri = "http://maps.google.com/maps/api/geocode/json?address=" +
                     addres[0] + "&sensor=false";
 
